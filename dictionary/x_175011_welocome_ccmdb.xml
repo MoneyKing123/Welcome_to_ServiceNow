@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="CCMDB" max_length="40" name="x_175011_welocome_ccmdb" type="collection"/>
+</database>
