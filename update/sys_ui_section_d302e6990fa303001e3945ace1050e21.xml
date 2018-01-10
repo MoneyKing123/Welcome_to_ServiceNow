@@ -5,41 +5,69 @@
             <element>sys_created_on</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 10:33:03</sys_created_on>
-            <sys_id>2f60f0ce0fe343001e3945ace1050e67</sys_id>
+            <sys_created_on>2018-01-10 10:46:14</sys_created_on>
+            <sys_id>20733c820f2743001e3945ace1050e09</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">d302e6990fa303001e3945ace1050e21</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 10:33:03</sys_updated_on>
+            <sys_updated_on>2018-01-10 10:46:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ccmdb_db</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 10:46:14</sys_created_on>
+            <sys_id>a0733c820f2743001e3945ace1050e09</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">d302e6990fa303001e3945ace1050e21</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 10:46:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 10:33:03</sys_created_on>
-            <sys_id>2760f0ce0fe343001e3945ace1050e68</sys_id>
+            <sys_created_on>2018-01-10 10:46:14</sys_created_on>
+            <sys_id>24733c820f2743001e3945ace1050e09</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">d302e6990fa303001e3945ace1050e21</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 10:33:03</sys_updated_on>
+            <sys_updated_on>2018-01-10 10:46:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 10:33:03</sys_created_on>
-            <sys_id>a760f0ce0fe343001e3945ace1050e68</sys_id>
+            <sys_created_on>2018-01-10 10:46:14</sys_created_on>
+            <sys_id>a4733c820f2743001e3945ace1050e09</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">d302e6990fa303001e3945ace1050e21</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 10:33:03</sys_updated_on>
+            <sys_updated_on>2018-01-10 10:46:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>Green</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-10 10:46:14</sys_created_on>
+            <sys_id>28733c820f2743001e3945ace1050e09</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">d302e6990fa303001e3945ace1050e21</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-10 10:46:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

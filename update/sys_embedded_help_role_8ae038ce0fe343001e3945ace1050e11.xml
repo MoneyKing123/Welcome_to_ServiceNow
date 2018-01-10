@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_175011_welocome.ccmdb_user" name="x_175011_welocome.ccmdb_user">15f1e2990fa303001e3945ace1050ef7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-10 10:35:09</sys_created_on>
+        <sys_id>8ae038ce0fe343001e3945ace1050e11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>15f1e2990fa303001e3945ace1050ef7</sys_name>
+        <sys_package display_value="Welcome to ServiceNow" source="x_175011_welocome">52719b810f5303001e3945ace1050eab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Welcome to ServiceNow">52719b810f5303001e3945ace1050eab</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8ae038ce0fe343001e3945ace1050e11</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-10 10:35:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

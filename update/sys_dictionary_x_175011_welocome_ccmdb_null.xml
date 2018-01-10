@@ -52,15 +52,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-08 10:53:38</sys_created_on>
-        <sys_id>edf166990fa303001e3945ace1050ec4</sys_id>
+        <sys_id>3fd038ce0fe343001e3945ace1050e1a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_175011_welocome_ccmdb</sys_name>
         <sys_package display_value="Welcome to ServiceNow" source="x_175011_welocome">52719b810f5303001e3945ace1050eab</sys_package>
         <sys_policy/>
         <sys_scope display_value="Welcome to ServiceNow">52719b810f5303001e3945ace1050eab</sys_scope>
-        <sys_update_name>sys_dictionary_x_175011_welocome_ccmdb_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-08 10:53:38</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_175011_welocome_ccmdb_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-10 10:34:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

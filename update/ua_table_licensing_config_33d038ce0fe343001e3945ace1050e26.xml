@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-08 10:53:39</sys_created_on>
-        <sys_id>52b8244a0fe343001e3945ace1050e9d</sys_id>
+        <sys_id>33d038ce0fe343001e3945ace1050e26</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_175011_welocome_ccmdb</sys_name>
         <sys_package display_value="Welcome to ServiceNow" source="x_175011_welocome">52719b810f5303001e3945ace1050eab</sys_package>
         <sys_policy/>
         <sys_scope display_value="Welcome to ServiceNow">52719b810f5303001e3945ace1050eab</sys_scope>
-        <sys_update_name>ua_table_licensing_config_52b8244a0fe343001e3945ace1050e9d</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_33d038ce0fe343001e3945ace1050e26</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-01-08 10:53:39</sys_updated_on>
     </ua_table_licensing_config>

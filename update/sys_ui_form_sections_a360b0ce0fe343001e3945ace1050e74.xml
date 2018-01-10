@@ -15,20 +15,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-01-10 10:33:03</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-01-10 10:33:03</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f60b0ce0fe343001e3945ace1050e77</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_175011_welocome_ccmdb" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">a360b0ce0fe343001e3945ace1050e74</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_175011_welocome_ccmdb" sys_domain="global" view="Default view">ef60b0ce0fe343001e3945ace1050e72</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-01-10 10:33:03</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_175011_welocome_ccmdb</name>
             <roles/>

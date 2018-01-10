@@ -2,5 +2,6 @@
 <database>
     <element label="CCMDB" max_length="40" name="x_175011_welocome_ccmdb" type="collection">
         <element attributes="base_start=true" label="DB2" max_length="80" name="ccmdb_db" type="table_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Color" max_length="40" name="green" type="string"/>
     </element>
 </database>
